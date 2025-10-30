@@ -16,4 +16,4 @@ CSS3
 
 GitHub Pages for deployment
 
-🔗 Live Demo: mohamedashraf011.github.io/Bakery
+🔗 **Live Demo:** [https://mohamedashraf011.github.io/Bakery/](https://mohamedashraf011.github.io/Bakery/)
